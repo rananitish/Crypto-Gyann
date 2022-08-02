@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crypto-Gyann/static/css/main.deb4d580.chunk.css",
+    "main.js": "/Crypto-Gyann/static/js/main.1ea06145.chunk.js",
+    "main.js.map": "/Crypto-Gyann/static/js/main.1ea06145.chunk.js.map",
+    "runtime-main.js": "/Crypto-Gyann/static/js/runtime-main.f7110eb6.js",
+    "runtime-main.js.map": "/Crypto-Gyann/static/js/runtime-main.f7110eb6.js.map",
+    "static/css/2.02daa001.chunk.css": "/Crypto-Gyann/static/css/2.02daa001.chunk.css",
+    "static/js/2.767730f1.chunk.js": "/Crypto-Gyann/static/js/2.767730f1.chunk.js",
+    "static/js/2.767730f1.chunk.js.map": "/Crypto-Gyann/static/js/2.767730f1.chunk.js.map",
+    "index.html": "/Crypto-Gyann/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/Crypto-Gyann/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/Crypto-Gyann/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.767730f1.chunk.js.LICENSE.txt": "/Crypto-Gyann/static/js/2.767730f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7110eb6.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.767730f1.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.1ea06145.chunk.js"
+  ]
+}
